@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(209, 249, 252);
+  }
+  #search {
+  
+    padding-left: 500px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 100px;
+    
+  }
+  .kaish{
+    display: block;
+    background-color: blue;
+    margin-bottom: 7px;
+  }
+  .nav{
+    display: inline-block;
+    background-color: transparent;
+    padding: 5px;
+    margin-left: 60px;
+  
+  }
+  .active{
+    background-color: cornsilk;
+    padding: 10px;
+    border-radius: 5px;
+  
+  }
+  .more{
+    background-color: none;
+    color: white;
+    
+    margin-left: 30px;
+  }
+  .logo{
+    display: inline-block;
+    margin-left: 40px;
+    padding: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .product{
+    display: block;
+    background-color: cornsilk;
+    padding: 3px;
+  }
+  .menu{
+    padding: 60px;
+  }
+  a:link {
+    color:2px solid black;
+    text-decoration: none;
+  }
+  .view{
+    background-color: rgb(106, 106, 212);
+    display: inline-block;
+    margin-left: 1200px;
+    padding: 5px;
+  }
+  .v1{
+    color: white;
+  }
+  .sp{
+  padding: 120px;  
+  }
